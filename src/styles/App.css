@@ -1,1 +1,19 @@
-
+*{
+    margin: 0;
+}
+.parent{
+    padding: 40px;
+    background-color: rgb(115,243,8);
+}
+.child{
+    padding: 5%;
+    background-color: rgb(197,107,25);
+}
+input{
+    padding: 10px;
+    font-size: 20px;
+}
+.para{
+    padding: 10px;
+    font-size: 20px;
+}
